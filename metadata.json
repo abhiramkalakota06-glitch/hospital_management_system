@@ -1,0 +1,8 @@
+{
+  "name": "CarePlus",
+  "description": "Complete multi-role Hospital Management System with live clinical queues, EMR, pharmacy inventory, laboratory workflows, and billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
